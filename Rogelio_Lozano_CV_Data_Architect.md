@@ -11,36 +11,40 @@ estado: 🟢 Activo
 
 # ROGELIO (ROGER) LOZANO NAVA
 ## Senior AI Architect & Full-Stack SaaS Engineer
-Puebla, MX (CST) | Remote / Global | +353 8 77 66 55 36 | [rlozanointel@gmail.com](mailto:rlozanointel@gmail.com)
-[linkedin.com/in/rlozanointel](https://linkedin.com/in/rlozanointel) | [github.com/rlozanointel](https://github.com/rlozanointel)
+Puebla, MX (CST) | Remote / Global | +353 8 77 66 55 36 | [rlozanointel@gmail.com](mailto:rlozanointel@gmail.com) [linkedin.com/in/rlozanointel](https://linkedin.com/in/rlozanointel) | [github.com/rlozanointel](https://github.com/rlozanointel)
 
 ## PROFESSIONAL SUMMARY
 Systems Architect and AI Engineer specializing in the convergence of deterministic industrial logic ([[ISO_9001]], [[Six_Sigma]]) and SOTA probabilistic AI. Proven mastery in orchestrating advanced cognitive frameworks ([[Python_3.12]], [[MoE_Routing]], [[SQLite-vec]] RAG) and deploying hyper-secure, $0 CapEx B2B SaaS ecosystems ([[Vue_3]], [[Nuxt_4]] Nitro, [[Supabase]]). I deliver "Iron Truth" data pipelines and scalable serverless applications, utilizing stochastic modeling to eliminate LLM hallucinations and rigorous engineering to bypass operational bottlenecks for high-growth tech ventures.
 
 ## TECHNICAL SKILLS MATRIX
-- **AI & Agentic Workflows:** [[Python_3.12]], Retrieval-Augmented Generation ([[RAG]]), Mixture of Experts ([[MoE_Routing]]), Multi-Agent Systems, Prompt Engineering, Gemini 3.0 SDK.
+- **AI & Agentic Workflows:** [[Python_3.12]], Retrieval-Augmented Generation (GraphRAG), Mixture of Experts ([[MoE_Routing]]), Monte Carlo Tree Search (MCTS), Multi-Agent Systems, Prompt Engineering, llama.cpp (Edge AI), Gemini 3.0 SDK.
 - **Frontend & SaaS Architecture:** [[Vue_3]], [[Nuxt_4]] (Nitro Engine), JavaScript, Tailwind CSS, Component-Driven Design, Edge Computing.
-- **Backend & Cloud Infrastructure:** Serverless REST APIs, [[Cloudflare_Pages]]/R2, Maileroo API Integration, WebSockets (Realtime Sync), CI/CD Pipelines.
+- **Backend & Cloud Infrastructure:** FastAPI, Serverless REST APIs, [[Cloudflare_Pages]]/R2, Maileroo API Integration, WebSockets (Realtime Sync), CI/CD Pipelines.
 - **Database & Security:** PostgreSQL, [[Supabase]], Row Level Security (RLS), Multi-Tenant Isolation, Identity & Access Management (IAM), [[SQLite-vec]].
 - **Data Engineering & OSINT:** Map-Reduce OSINT Pipelines, XML/JSON Structuring, ArXiv/GitHub Data Extraction, Pandas, NumPy.
-- **Industrial Logic & Strategy:** [[Six_Sigma]] (DMAIC), Monte Carlo Simulations (Stochastic Control), BPMN, [[ISO_9001]] Data Governance, $0 CapEx Architecture Design.
+- **Industrial Logic & Strategy:** [[Six_Sigma]] (DMAIC), Monte Carlo Simulations (Predictive Modeling), BPMN, [[ISO_9001]] Data Governance, $0 CapEx Architecture Design.
 
 ## FLAGSHIP ARCHITECTURAL PROJECTS
 
-### Creator & Principal AI Engineer | [[VROMLIX_CORE|VROMLIX Prime]] (Cognitive Architecture)
-- **Reduced information retrieval latency by 99%** by engineering a deterministic-probabilistic cognitive architecture ([[Python_3.12]]) utilizing Mixture of Experts ([[MoE_Routing]]) routing and [[SQLite-vec]] deep memory [[RAG]].
-- **Established a mathematically verifiable "Zero-Hallucination" baseline**, generating 100% deterministic XML knowledge graphs by integrating [[ISO_9001]] audit logic with Semantic Vector Anchoring and Monte Carlo simulations to evaluate and control LLM stochasticity.
+### Creator & Principal AI Architect | [[VROMLIX_CORE|VROMLIX Prime]] (Cognitive Edge Architecture)
+- **Reduced information retrieval latency by 99% and eliminated context amnesia** by engineering a deterministic cognitive architecture ([[Python_3.12]]) that upgrades standard [[RAG]] into a local GraphRAG (1-Hop traversal) using [[SQLite-vec]] and a Hindsight W-B-O-S epistemic memory taxonomy.
+- **Established a mathematically verifiable "Zero-Hallucination" baseline**, generating 100% deterministic XML knowledge graphs by integrating [[ISO_9001]] audit logic with a Monte Carlo Tree Search (MCTS) heuristic to simulate and score Mixture of Experts ([[MoE_Routing]]) routing paths prior to execution.
+- **Secured autonomous code generation and file system mutations** by deploying a Dual-LLM "Maker-Checker" adversarial architecture, where a Surgeon agent generates code and an isolated Forensic Auditor mathematically verifies it, intercepted by a strict Human-in-the-Loop (HitL) Sandbox Firewall.
+- **Stabilized high-entropy data pipelines and bypassed strict API rate limits** (30k TPM) by developing an Active Key Manager with a 61-second Round-Robin cooldown and exponential backoff algorithms, ensuring zero runtime failures during parallel swarm execution.
+- **Deployed enterprise-grade AI on highly constrained edge hardware** (8GB RAM ceiling) maintaining 0 Out-Of-Memory (OOM) errors, by implementing 8-bit Key-Value (KV) Cache quantization and dynamic context compression via `llama-cpp-python`.
 - **Automated State-of-the-Art (SOTA) technical intelligence gathering**, drastically accelerating research velocity, by developing custom OSINT Map-Reduce scripts that autonomously scrape, filter (enforcing strict 10+ GitHub star thresholds), and synthesize ArXiv papers and corporate RSS feeds.
-- **Stabilized high-entropy data pipelines**, ensuring zero runtime failures during parallel swarm execution by implementing a secure Human-in-the-Loop (HitL) Sandbox Firewall and an Active Key Manager to seamlessly bypass API rate limits.
+
+\newpage
+
+- **Validated system intelligence against industry standards** achieving seamless SWE-bench and GAIA integration, by developing a headless FastAPI proxy server for autonomous machine-to-machine evaluation.
 
 ### Lead Software Architect | [[NexoContable]] (B2B2C Serverless SaaS Platform)
 *Live MVP:* [nexocontable.rlozano-intel.workers.dev](https://nexocontable.rlozano-intel.workers.dev)
+
 - **Architected a complete B2B2C monetization engine** by integrating Stripe Checkout Sessions via Nuxt Nitro serverless endpoints, seamlessly handling recurring subscriptions while maintaining $0 backend CapEx.
-- **Engineered strict enterprise-grade data isolation**, resulting in zero cross-tenant vulnerabilities, by designing complex PostgreSQL Row Level Security (RLS) policies within [[Supabase]].
+- **Engineered strict enterprise-grade data isolation**, resulting in zero cross-tenant vulnerabilities, by designing complex PostgreSQL Row Level Security (RLS) policies and Identity & Access Management (IAM) within [[Supabase]].
 - **Automated transactional client communications** by designing a decoupled, serverless notification pipeline (Maileroo REST API) synchronized precisely with real-time UI state reactivity (Supabase WebSockets).
 - **Achieved absolute $0.00 initial CapEx infrastructure scalability** by architecting and deploying a multi-tenant SaaS platform utilizing a modern serverless edge stack ([[Vue_3]], [[Nuxt_4]] Nitro, [[Cloudflare_Pages]]/R2).
-
-\newpage
 
 ## PROFESSIONAL EXPERIENCE
 
