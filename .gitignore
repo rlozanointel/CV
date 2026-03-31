@@ -9,6 +9,10 @@ __pycache__/
 *.pyo
 *.pyd
 .obsidian/
+.vscode/
+.agent/
+.gemini/
+.antigravity/
 
 # Seguridad (Protección contra fugas accidentales)
 config_api_keys_secrets.py
