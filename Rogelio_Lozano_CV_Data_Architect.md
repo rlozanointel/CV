@@ -14,29 +14,29 @@ estado: 🟢 Activo
 Puebla, MX (CST) | Remote / Global | +353 8 77 66 55 36 | [rlozanointel@gmail.com](mailto:rlozanointel@gmail.com) [linkedin.com/in/rlozanointel](https://linkedin.com/in/rlozanointel) | [github.com/rlozanointel](https://github.com/rlozanointel)
 
 ## PROFESSIONAL SUMMARY
-Systems Architect and AI Engineer specializing in the convergence of deterministic industrial logic ([[ISO_9001]], [[Six_Sigma]]) and SOTA probabilistic AI. Proven mastery in orchestrating advanced cognitive frameworks ([[Python_3.12]], [[MoE_Routing]], [[SQLite-vec]] RAG) and deploying hyper-secure, $0 CapEx B2B SaaS ecosystems ([[Vue_3]], [[Nuxt_4]] Nitro, [[Supabase]]). I deliver "Iron Truth" data pipelines and scalable serverless applications, utilizing stochastic modeling to eliminate LLM hallucinations and rigorous engineering to bypass operational bottlenecks for high-growth tech ventures.
+Systems Architect and AI Engineer specializing in the convergence of deterministic industrial logic ([[ISO_9001]], [[Six_Sigma_DMAIC|Six_Sigma]]) and [[Taxonomía SOTA v2.0|SOTA]] probabilistic AI. Proven mastery in orchestrating advanced cognitive frameworks ([[Python_3.12]], [[MoE_Routing]], [[SQLite-vec]] [[RG_Retrieval_Augmented_Generation|RAG]]) and deploying hyper-secure, $0 CapEx B2B SaaS ecosystems ([[Vue_3]], [[Nuxt_4]] Nitro, [[Supabase]]). I deliver "Iron Truth" data pipelines and scalable serverless applications, utilizing stochastic modeling to eliminate [[LG - Large Language Models|LLM]] hallucinations and rigorous engineering to bypass operational bottlenecks for high-growth tech ventures.
 
 ## TECHNICAL SKILLS MATRIX
-- **AI & Agentic Workflows:** [[Python_3.12]], Retrieval-Augmented Generation (GraphRAG), Mixture of Experts ([[MoE_Routing]]), Monte Carlo Tree Search (MCTS), Multi-Agent Systems, Prompt Engineering, llama.cpp (Edge AI), Gemini 3.0 SDK.
-- **Frontend & SaaS Architecture:** [[Vue_3]], [[Nuxt_4]] (Nitro Engine), JavaScript, Tailwind CSS, Component-Driven Design, Edge Computing.
+- **AI & [[AG_Autonomous_Agents|Agentic Workflows]]:** [[Python_3.12]], [[RG_Retrieval_Augmented_Generation|Retrieval-Augmented Generation]] ([[Graph_RAG|GraphRAG]]), Mixture of Experts ([[MoE_Routing]]), [[MCTS_FineTuning|Monte Carlo Tree Search (MCTS)]], [[MA - Multi-Agent Systems|Multi-Agent Systems]], [[Prompting|Prompt Engineering]], llama.cpp ([[SL_Edge_Models|Edge AI]]), Gemini 3.0 SDK.
+- **Frontend & SaaS Architecture:** [[Vue_3]], [[Nuxt_4]] (Nitro Engine), JavaScript, Tailwind CSS, Component-Driven Design, [[SL_Edge_Models|Edge Computing]].
 - **Backend & Cloud Infrastructure:** FastAPI, Serverless REST APIs, [[Cloudflare_Pages]]/R2, Maileroo API Integration, WebSockets (Realtime Sync), CI/CD Pipelines.
 - **Database & Security:** PostgreSQL, [[Supabase]], Row Level Security (RLS), Multi-Tenant Isolation, Identity & Access Management (IAM), [[SQLite-vec]].
-- **Data Engineering & OSINT:** Map-Reduce OSINT Pipelines, XML/JSON Structuring, ArXiv/GitHub Data Extraction, Pandas, NumPy.
-- **Industrial Logic & Strategy:** [[Six_Sigma]] (DMAIC), Monte Carlo Simulations (Predictive Modeling), BPMN, [[ISO_9001]] Data Governance, $0 CapEx Architecture Design.
+- **Data Engineering & OSINT:** Map-Reduce OSINT Pipelines, [[Structural_Refactoring|XML/JSON Structuring]], ArXiv/GitHub Data Extraction, Pandas, NumPy.
+- **Industrial Logic & Strategy:** [[Six_Sigma_DMAIC|Six_Sigma]] ([[Six_Sigma_DMAIC|DMAIC]]), Monte Carlo Simulations (Predictive Modeling), BPMN, [[ISO_9001]] Data Governance, $0 CapEx Architecture Design.
 
 ## FLAGSHIP ARCHITECTURAL PROJECTS
 
 ### Creator & Principal AI Architect | [[VROMLIX_CORE|VROMLIX Prime]] (Cognitive Edge Architecture)
-- **Reduced information retrieval latency by 99% and eliminated context amnesia** by engineering a deterministic cognitive architecture ([[Python_3.12]]) that upgrades standard [[RAG]] into a local GraphRAG (1-Hop traversal) using [[SQLite-vec]] and a Hindsight W-B-O-S epistemic memory taxonomy.
-- **Established a mathematically verifiable "Zero-Hallucination" baseline**, generating 100% deterministic XML knowledge graphs by integrating [[ISO_9001]] audit logic with a Monte Carlo Tree Search (MCTS) heuristic to simulate and score Mixture of Experts ([[MoE_Routing]]) routing paths prior to execution.
-- **Secured autonomous code generation and file system mutations** by deploying a Dual-LLM "Maker-Checker" adversarial architecture, where a Surgeon agent generates code and an isolated Forensic Auditor mathematically verifies it, intercepted by a strict Human-in-the-Loop (HitL) Sandbox Firewall.
-- **Stabilized high-entropy data pipelines and bypassed strict API rate limits** (30k TPM) by developing an Active Key Manager with a 61-second Round-Robin cooldown and exponential backoff algorithms, ensuring zero runtime failures during parallel swarm execution.
-- **Deployed enterprise-grade AI on highly constrained edge hardware** (8GB RAM ceiling) maintaining 0 Out-Of-Memory (OOM) errors, by implementing 8-bit Key-Value (KV) Cache quantization and dynamic context compression via `llama-cpp-python`.
-- **Automated State-of-the-Art (SOTA) technical intelligence gathering**, drastically accelerating research velocity, by developing custom OSINT Map-Reduce scripts that autonomously scrape, filter (enforcing strict 10+ GitHub star thresholds), and synthesize ArXiv papers and corporate RSS feeds.
+- **Reduced information retrieval latency by 99% and eliminated context amnesia** by engineering a deterministic cognitive architecture ([[Python_3.12]]) that upgrades standard [[RG_Retrieval_Augmented_Generation|RAG]] into a local [[Graph_RAG|GraphRAG]] (1-Hop traversal) using [[SQLite-vec]] and a Hindsight W-B-O-S epistemic memory taxonomy.
+- **Established a mathematically verifiable "Zero-Hallucination" baseline**, generating 100% deterministic XML [[Knowledge_Graph_Access|knowledge graphs]] by integrating [[ISO_9001]] audit logic with a [[MCTS_FineTuning|Monte Carlo Tree Search (MCTS)]] heuristic to simulate and score Mixture of Experts ([[MoE_Routing]]) [[Semantic_Routing|routing paths]] prior to execution.
+- **Secured [[AG_Autonomous_Agents|autonomous]] code generation and file system mutations** by deploying a Dual-[[LG - Large Language Models|LLM]] "Maker-Checker" [[Adversarial_Refinement|adversarial architecture]], where a Surgeon [[AG_Autonomous_Agents|agent]] generates code and an isolated [[Forensic_Pattern|Forensic Auditor]] mathematically verifies it, intercepted by a strict [[HL_Human_in_the_Loop|Human-in-the-Loop (HitL)]] [[Safety_Sandbox|Sandbox Firewall]].
+- **Stabilized high-entropy data pipelines and bypassed strict API rate limits** (30k TPM) by developing an Active Key Manager with a 61-second Round-Robin cooldown and exponential backoff algorithms, ensuring zero runtime failures during parallel [[MA_Multi_Agent_Swarms|swarm execution]].
+- **Deployed enterprise-grade AI on highly constrained [[SL_Edge_Models|edge hardware]]** (8GB RAM ceiling) maintaining 0 Out-Of-Memory (OOM) errors, by implementing 8-bit [[KV_Cache_Quantization|Key-Value (KV) Cache quantization]] and dynamic context compression via `llama-cpp-python`.
+- **Automated State-of-the-Art ([[Taxonomía SOTA v2.0|SOTA]]) technical intelligence gathering**, drastically accelerating research velocity, by developing custom OSINT Map-Reduce scripts that autonomously scrape, filter (enforcing strict 10+ GitHub star thresholds), and synthesize ArXiv papers and corporate RSS feeds.
 
 \newpage
 
-- **Validated system intelligence against industry standards** achieving seamless SWE-bench and GAIA integration, by developing a headless FastAPI proxy server for autonomous machine-to-machine evaluation.
+- **Validated system intelligence against industry standards** achieving seamless SWE-bench and GAIA integration, by developing a headless FastAPI proxy server for [[AG_Autonomous_Agents|autonomous]] machine-to-machine [[EV - Evaluation & Observability|evaluation]].
 
 ### Lead Software Architect | [[NexoContable]] (B2B2C Serverless SaaS Platform)
 *Live MVP:* [nexocontable.rlozano-intel.workers.dev](https://nexocontable.rlozano-intel.workers.dev)
