@@ -8,6 +8,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+.obsidian/
 
 # Seguridad (Protección contra fugas accidentales)
 config_api_keys_secrets.py
