@@ -33,9 +33,6 @@ Systems Architect and AI Engineer specializing in the convergence of determinist
 - **Stabilized high-entropy data pipelines and bypassed strict API rate limits** (30k TPM) by developing an Active Key Manager with a 61-second Round-Robin cooldown and exponential backoff algorithms, ensuring zero runtime failures during parallel [[MA_Multi_Agent_Swarms_MOC|swarm execution]].
 - **Deployed enterprise-grade AI on highly constrained [[SL_Edge_Models_MOC|edge hardware]]** (8GB RAM ceiling) maintaining 0 Out-Of-Memory (OOM) errors, by implementing 8-bit [[CONCEPTO_KV_Cache_Quantization|Key-Value (KV) Cache quantization]] and dynamic context compression via `llama-cpp-python`.
 - **Automated State-of-the-Art ([[Vromlix_Taxonomy|SOTA]]) technical intelligence gathering**, drastically accelerating research velocity, by developing custom OSINT Map-Reduce scripts that autonomously scrape, filter (enforcing strict 10+ GitHub star thresholds), and synthesize ArXiv papers and corporate RSS feeds.
-
-\newpage
-
 - **Validated system intelligence against industry standards** achieving seamless SWE-bench and GAIA integration, by developing a headless FastAPI proxy server for [[AG_Persona_MOC|autonomous]] machine-to-machine [[EV_Evaluation_Observability_MOC|evaluation]].
 
 ### Lead Software Architect | [[NexoContable]] (B2B2C Serverless SaaS Platform)
@@ -52,6 +49,8 @@ Systems Architect and AI Engineer specializing in the convergence of determinist
 - **Automated the Define, Measure & Analyze phases of a [[PRINCIPIO_Six_Sigma_DMAIC|DMAIC]] cycle** by engineering a deterministic Python orchestrator that calculates Process Capability (Cpk) and generates interactive Pareto visualizations directly from manufacturing defect logs, eliminating manual statistical analysis.
 - **Achieved zero-hallucination root cause synthesis** by anchoring all [[RG_Retrieval_Augmented_Generation_MOC|RAG]] retrieval exclusively to a local [[TECH_SQLite_Vec|sqlite-vec]] vector knowledge base, ensuring proposed failure causes are always grounded in validated historical evidence, never speculatively generated.
 - **Delivered a production-grade, zero-configuration demo** by implementing strict [[TECH_Python|Pydantic]] v2 immutable schemas, full [[EV_Evaluation_Observability_MOC|pytest]] coverage, and a reproducible `./demo.sh` pipeline executable in under 30 seconds on any machine.
+
+\newpage
 
 ## PROFESSIONAL EXPERIENCE
 
