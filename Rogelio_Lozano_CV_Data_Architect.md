@@ -46,6 +46,13 @@ Systems Architect and AI Engineer specializing in the convergence of determinist
 - **Automated transactional client communications** by designing a decoupled, serverless notification pipeline (Maileroo REST API) synchronized precisely with real-time UI state reactivity (Supabase WebSockets).
 - **Achieved absolute $0.00 initial CapEx infrastructure scalability** by architecting and deploying a multi-tenant SaaS platform utilizing a modern serverless edge stack ([[TECH_Vue_3]], [[TECH_Nuxt_4]] Nitro, [[TECH_Cloudflare_Pages]]/R2).
 
+### Creator & Lead Engineer | Sigma-Zero (Industrial Quality AI Orchestrator)
+*Public Repository:* [github.com/rlozanointel/sigma-zero](https://github.com/rlozanointel/sigma-zero)
+
+- **Automated the Define, Measure & Analyze phases of a [[PRINCIPIO_Six_Sigma_DMAIC|DMAIC]] cycle** by engineering a deterministic Python orchestrator that calculates Process Capability (Cpk) and generates interactive Pareto visualizations directly from manufacturing defect logs, eliminating manual statistical analysis.
+- **Achieved zero-hallucination root cause synthesis** by anchoring all [[RG_Retrieval_Augmented_Generation_MOC|RAG]] retrieval exclusively to a local [[TECH_SQLite_Vec|sqlite-vec]] vector knowledge base, ensuring proposed failure causes are always grounded in validated historical evidence, never speculatively generated.
+- **Delivered a production-grade, zero-configuration demo** by implementing strict [[TECH_Python|Pydantic]] v2 immutable schemas, full [[EV_Evaluation_Observability_MOC|pytest]] coverage, and a reproducible `./demo.sh` pipeline executable in under 30 seconds on any machine.
+
 ## PROFESSIONAL EXPERIENCE
 
 ### Processes Coordinator | _Grupo CINTE | Mar 2014 – Mar 2016_
