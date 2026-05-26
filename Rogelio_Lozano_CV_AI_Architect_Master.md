@@ -40,6 +40,8 @@ Systems Architect & AI Engineer fusing deterministic industrial logic ([[FW_Indu
 - **Automated [[Vromlix_Taxonomy|SOTA]] technical intelligence gathering** via custom OSINT Map-Reduce scripts that autonomously scrape, filter (10+ GitHub stars threshold), and synthesize ArXiv papers and RSS feeds.
 - **Validated system intelligence against industry standards** (SWE-bench, GAIA) by building a headless FastAPI proxy server for [[AG_Persona_MOC|autonomous]] machine-to-machine [[EV_Evaluation_Observability_MOC|evaluation]].
 
+\newpage
+
 ### Lead Software Architect | [[NexoContable|NexoContable]] (B2B2C Serverless SaaS Platform)
 *Live MVP:* [nexocontable.rlozano-intel.workers.dev](https://nexocontable.rlozano-intel.workers.dev)
 
@@ -53,8 +55,6 @@ Systems Architect & AI Engineer fusing deterministic industrial logic ([[FW_Indu
 - **Automated [[PRINCIPIO_Six_Sigma_DMAIC|DMAIC]] Define, Measure & Analyze phases** via a deterministic Python orchestrator calculating Process Capability (Cpk) and generating Pareto visualizations from defect logs, eliminating manual analysis.
 - **Achieved zero-hallucination root cause synthesis** by anchoring [[RG_Retrieval_Augmented_Generation_MOC|RAG]] exclusively to a local [[TECH_SQLite_Vec|sqlite-vec]] knowledge base, grounding failure causes in validated historical evidence to eliminate speculation.
 - **Delivered a zero-configuration demo** executable in <30s via strict [[TECH_Python|Pydantic]] v2 schemas, full [[EV_Evaluation_Observability_MOC|pytest]] coverage, and a reproducible `./demo.sh` pipeline.
-
-\newpage
 
 ## PROFESSIONAL EXPERIENCE
 
