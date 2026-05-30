@@ -13,7 +13,7 @@ estado: 🟢 Activo
 
 ## Senior AI Architect & Full-Stack SaaS Engineer
 
-Puebla, MX (CST) | Remote / Global | +52 222 44 55 616 | [rlozanointel@gmail.com](mailto:rlozanointel@gmail.com) [linkedin.com/in/rlozanointel](https://linkedin.com/in/rlozanointel) | [github.com/rlozanointel](https://github.com/rlozanointel)
+Puebla, MX (CST) | Remote / Global | Call: +52 222 44 55 616 | WhatsApp: +353 8 77 66 55 36 | [rlozanointel@gmail.com](mailto:rlozanointel@gmail.com) [linkedin.com/in/rlozanointel](https://linkedin.com/in/rlozanointel) | [github.com/rlozanointel](https://github.com/rlozanointel)
 
 ## PROFESSIONAL SUMMARY
 
